@@ -2,6 +2,7 @@
   "name": "github-unfollower-tracker",
   "private": true,
   "version": "0.0.0",
+  "description": "A web application for tracking GitHub unfollowers.",
   "type": "module",
   "scripts": {
     "dev": "vite",
